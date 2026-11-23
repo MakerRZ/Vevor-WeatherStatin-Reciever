@@ -1,4 +1,4 @@
-# ESPHome Vevor 7-in-1 Weather Station
+# Vevor 7-in-1 Weather Station Reciever
 
 An ESPHome external component that decodes the 868/915 MHz FSK telegrams sent by
 Vevor 7-in-1 weather stations (also sold under other brands using the same
